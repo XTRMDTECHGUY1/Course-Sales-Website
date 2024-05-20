@@ -1,6 +1,6 @@
 # Course-Sales-Website!
 
-#with Forms sections, live streams, courses and lot more
+# With Forms sections, live streams, courses, and lot more
 Using Php + Bootstrap
 
 ![6](https://github.com/XTRMDTECHGUY1/Course-Sales-Website/assets/88555638/7ed5b40d-922d-46e3-94de-d358e59ae2a0)
